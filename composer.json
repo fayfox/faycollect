@@ -1,6 +1,6 @@
 {
     "name": "faysoft/faycollect",
-    "type": "project",
+    "type": "library",
     "description": "Faycms采集模块",
     "keywords": ["faysoft", "faycms", "faycollect"],
     "license": "MIT",
@@ -12,7 +12,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
         "faysoft/cms": "*"
     },
     "autoload": {
